@@ -6,7 +6,7 @@ I'm a Software Developer developer focusing on React & Java.
 
 ### My GitHub Stats
 
-[![Håkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakver29E&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Håkon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakver29&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakver29&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
